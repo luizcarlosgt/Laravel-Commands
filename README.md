@@ -6,6 +6,11 @@
  <img src='https://tm.ibxk.com.br/2021/08/25/25005108362009.jpg' width='500px'>
  </p>
  
+ # install Laravel
+  ````
+ composer create-project --prefer-dist laravel/laravel ProjectName
+  ````
+  
  # make
  ````make
   make:cast              Create a new custom Eloquent cast class
